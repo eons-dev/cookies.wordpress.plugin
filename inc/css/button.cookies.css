@@ -1,0 +1,18 @@
+#usercentrics-psl a
+{
+    background-image: url(../black.cookie.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    padding: 0px;
+    display: block;
+    position: fixed;
+    top: auto;
+    right: auto;
+    left:0px;
+    bottom: 0px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    z-index: 100;
+}
